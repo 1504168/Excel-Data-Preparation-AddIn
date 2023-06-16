@@ -47,4 +47,4 @@ We have a [Test Data](Test%20Data.xlsm) File.
 
 Search Characters In Anywhere:{"Search Text":"2w9","ColIndex":3} >> This means use Search Characters In Anywhere button and use 2w9 as Search Text and Keep your cursor in the third column before running this command.  
 
-I am going to add a video explaining different options.
+[Here](https://youtu.be/cG3d_TdLGN4) is a video demo of this AddIn.
